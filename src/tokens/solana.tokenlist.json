@@ -11756,3 +11756,18 @@
     "patch": 2
   }
 }
+   {
+      "chainId": 101,
+      "address": "6KfDDXh4SFBEaUmL2JMYYQ9QETQL2PxowUucY1Vg3oe4",
+      "symbol": "SUSD",
+      "name": "Salvador USD",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/Gledik/SalvadorUSD/main/salvador.png",
+      "tags": [
+        "stablecoin"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/SalvadorUsd",
+        "telegram": "https://t.me/salvadousd"
+      }
+    },
